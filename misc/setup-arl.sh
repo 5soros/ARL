@@ -912,8 +912,8 @@ install_arl_common() {
     done
 
     # 克隆 ARL 和 ARL-NPoC (根据网络环境选择源)
-    local arl_repo="https://github.com/msmoshang/ARL"
-    local arl_npoc_repo="https://github.com/Aabyss-Team/ARL-NPoC"
+    local arl_repo="https://github.com/5soros/ARL"
+    local arl_npoc_repo="https://github.com/5soros/ARL-NPoC"
 
     if is_cn_env; then
         arl_repo="https://gitee.com/Aabyss-Team/ARL"
