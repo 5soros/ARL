@@ -35,7 +35,7 @@ DEFAULT_FINGER_URL="$GITCODE_BASE_URL_ARL/882cce400c6038c71f168e7d2bc180fedb5ca8
 GET_PIP_SCRIPT_CN="$GITCODE_BASE_URL/fd48c7fdef802d8bb86ace74134c553f0317258c/get-pip.py"
 
 # 国外常用下载链接 (GitHub/Git.io)
-GITHUB_BASE_URL="https://raw.githubusercontent.com/msmoshang/arl_files/master"
+GITHUB_BASE_URL="https://raw.githubusercontent.com/5soros/arl_files/master"
 NUCLEI_URL="https://github.com/projectdiscovery/nuclei/releases/download/v3.3.9/nuclei_3.3.9_linux_amd64.zip"
 WIH_URL="$GITHUB_BASE_URL/wih/wih_linux_amd64"
 NCRACK_URL="$GITHUB_BASE_URL/ncrack"
